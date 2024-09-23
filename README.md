@@ -14,6 +14,8 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 ### Valid Name and Wrong Email Domain
 ![alt text](assets/activity4-3.png)
 
-## Docker Commands
+## Common Commands
 ```docker build -t flask-app .```    
 ```docker run -p 5001:5000 flask-app```
+```source venv/bin/activate```
+```deactivate```
